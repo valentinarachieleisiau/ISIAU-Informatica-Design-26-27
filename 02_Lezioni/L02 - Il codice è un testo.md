@@ -8,7 +8,7 @@ durata: 4h
 
 ## Di cosa parliamo oggi
 
-La settimana scorsa gli esecutori eravate voi. Oggi vediamo da dove viene l'idea di programma: da un telaio dell'Ottocento fino al codice che scriveremo noi. Poi apriamo insieme, con calma, l'editor in cui scriveremo tutto il codice del corso, e ci mettiamo dentro un primo sketch. Infine conosciamo il testo su cui lavorerete fino a luglio: "Il rituale dei Musgrave".
+La settimana scorsa avete scritto un programma, e l'avete eseguito. Oggi vediamo da dove viene l'idea di programma: da un telaio dell'Ottocento fino al codice che scriveremo noi. Poi apriamo insieme, con calma, l'editor in cui scriveremo tutto il codice del corso, e ci mettiamo dentro un primo sketch. Infine conosciamo il testo su cui lavorerete fino a luglio: "Il rituale dei Musgrave".
 
 ## Obiettivi
 
