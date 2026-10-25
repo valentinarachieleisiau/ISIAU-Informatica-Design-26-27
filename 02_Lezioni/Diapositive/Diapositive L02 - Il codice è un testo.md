@@ -31,10 +31,10 @@ Ho pubblicato un _repository_ per il corso su GitHub e dentro ci sono anche le d
 
 Durante l'esercitazione:
 - una persona ha **scritto il programma** (era il programmatore/la programmatrice)
-- il foglio/messaggio scritto a mano o digitalmente era il programma
+- il foglio/messaggio scritto a mano o digitalmente **era il programma**
 - l'altra persona ha **eseguito il programma**
 
-Ne consegue che il modo in cui il programma è scritto, incide sul risultato finale
+Ne consegue che il modo in cui il programma è scritto incide sul risultato finale
 
 ---
 
