@@ -19,10 +19,22 @@ ISIA di Urbino · 2026/2027
 
 ---
 
+## Comunicazione di servizio
+
+Ho pubblicato un _repository_ per il corso su GitHub e dentro ci sono anche le diapositive delle lezioni.
+
+☢️ no panic: parleremo ancora di GitHub
+
+---
+
 ## La settimana scorsa
 
-Gli esecutori
-**eravate voi**
+Durante l'esercitazione:
+- una persona ha **scritto il programma** (era il programmatore/la programmatrice)
+- il foglio/messaggio scritto a mano o digitalmente era il programma
+- l'altra persona ha **eseguito il programma**
+
+Ne consegue che il modo in cui il programma è scritto, incide sul risultato finale
 
 ---
 
@@ -44,7 +56,7 @@ https://www.youtube.com/watch?v=J49TTfG3H8w
 
 ![jacquard-ritratto-seta](../../_allegati/L01/jacquard-ritratto-seta.jpg)
 
-Un ritratto tessuto in seta
+Un ritratto di Jacquard tessuto in seta
 **circa 24.000 schede**
 *Library of Congress, pubblico dominio*
 
@@ -52,7 +64,7 @@ Un ritratto tessuto in seta
 
 ## Il disegno non sta nella macchina
 
-**Sta nelle schede**
+**Sta nelle schede** e quello è il programma
 
 ---
 
@@ -69,8 +81,7 @@ Charles Babbage, dagli anni Trenta dell'Ottocento
 
 ![menabrea](../../_allegati/L01/menabrea.jpg)
 
-Luigi Federico Menabrea ascolta Babbage
-e ne scrive un resoconto
+Luigi Federico Menabrea ascolta Babbage e ne scrive un resoconto
 
 ---
 
@@ -78,8 +89,7 @@ e ne scrive un resoconto
 
 ![lovelace](../../_allegati/L01/lovelace.jpg)
 
-«La macchina analitica tesse motivi algebrici
-proprio come il telaio Jacquard tesse fiori e foglie»
+«La macchina analitica tesse motivi algebrici proprio come il telaio Jacquard tesse fiori e foglie»
 
 ---
 
@@ -87,15 +97,13 @@ proprio come il telaio Jacquard tesse fiori e foglie»
 
 ![lovelace-nota-g](../../_allegati/L01/lovelace-nota-g.jpg)
 
-Le operazioni che la macchina avrebbe dovuto eseguire,
-una dopo l'altra
+Le operazioni che la macchina avrebbe dovuto eseguire, una dopo l'altra
 
 ---
 
 ## Non solo numeri
 
-La macchina «potrebbe comporre brani musicali
-di qualunque complessità ed estensione»
+La macchina «potrebbe comporre brani musicali di qualunque complessità ed estensione»
 
 Ada Lovelace, nota A
 
@@ -121,19 +129,9 @@ Fino a quel momento, per cambiare il lavoro di un calcolatore spesso bisognava c
 
 ---
 
-## Una domanda
-
-Nel telaio Jacquard, dov'è il disegno del tessuto?
-
-**Nella macchina, o nelle schede?**
-
----
-
 ## Il codice è un testo
 
-Scritto da qualcuno
-per essere letto da una macchina
-**e da altre persone**
+Scritto da qualcuno per essere letto da una macchina **e da altre persone**
 
 ---
 
@@ -182,11 +180,9 @@ https://youtu.be/M8swNRqrfuY?si=yH2eKz1YljHmO37C&t=353
 
 ## Karl Gerstner, 1964
 
-*Programme entwerfen*
-Progettare programmi
+*Programme entwerfen*, Progettare programmi
 
-«Invece di soluzioni per problemi,
-**programmi per soluzioni**»
+«Invece di soluzioni per problemi, **programmi per soluzioni**»
 
 Gerstner non pensa solo ai computer. Pensa a un modo di progettare: invece di disegnare un logo, un'impaginazione, un carattere, si progetta il **sistema di regole che li genera**, e da cui escono **molte soluzioni possibili**.
 
@@ -292,17 +288,6 @@ le modifiche non sono salvate
 Il browser vede solo quello che avete salvato
 
 <small>Windows: Ctrl + S</small>
-
----
-
-## 6 · Le estensioni
-
-Cercate `vscode-pets` · **Install**
-Poi `Cmd + Shift + P` · **Start pet coding session**
-
-Un'estensione è **codice scritto da altri** che gira sul vostro computer e aggiunge capacità a Visual Studio Code. Durante il corso ne potremmo installare anche altre.
-
-<small>Windows: Ctrl al posto di Cmd</small>
 
 ---
 
