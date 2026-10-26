@@ -20,7 +20,6 @@ Questo è il vault del corso. Qui trovate le lezioni, le guide pratiche, il glos
 
 ### Fase 0 · Precorso
 - [L01 - Che cos'è un programma](02_Lezioni/L01%20-%20Che%20cos%27%C3%A8%20un%20programma.md)
-- [L02 - Il codice è un testo](02_Lezioni/L02%20-%20Il%20codice%20%C3%A8%20un%20testo.md)
 
 ### Corso
 *In arrivo.*
