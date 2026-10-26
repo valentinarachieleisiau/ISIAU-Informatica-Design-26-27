@@ -35,5 +35,4 @@ Alla fine di questa lezione sapete:
 
 - [ ] Installate Visual Studio Code dal sito ufficiale, senza ancora configurarlo: lo apriamo insieme nella prossima lezione
 - [ ] Rendete visibili le estensioni di tutti i vostri file
-- [ ] Leggete "Il rituale dei Musgrave" di Arthur Conan Doyle, distribuito a fine lezione (il PDF è su Classroom). È il testo su cui lavorerete per tutto il corso
 - [ ] Portate il computer carico, e il caricatore

@@ -15,7 +15,6 @@ ISIA di Urbino · 2026/2027
 1. Che cos'è un programma
 2. Visual Studio Code
 3. Il primo codice
-4. Il rituale dei Musgrave
 
 ---
 
@@ -341,71 +340,6 @@ Quante volte compare la parola "cerchio" nel codice?
 
 ---
 
-# Il rituale dei Musgrave
-
----
-
-## Il testo del progetto
-
-Arthur Conan Doyle, "Il rituale dei Musgrave", pubblicato su *Strand Magazine*, maggio 1893
-
-Lo stesso testo per tutti
-
----
-
-## Una notte, a Hurlstone
-
-Holmes racconta a Watson uno dei suoi primi casi. 
-
-Un vecchio compagno di università, Reginald Musgrave, vive a Hurlstone, un antico maniero nel Sussex. Una notte, verso le due, vede una luce nella biblioteca. Entra e trova il maggiordomo, Brunton, che studia un foglio che sembra una mappa e fruga con calma tra i documenti di famiglia. 
-
-Musgrave lo licenzia: ha una settimana per andarsene. La terza mattina Brunton è sparito: il letto è intatto, i vestiti e i soldi sono in camera, le porte chiuse dall'interno. Poi sparisce anche Rachel, la cameriera. Le sue impronte arrivano fino allo stagno. Nello stagno si trova soltanto una borsa di stoffa piena di pezzi di metallo arrugginito e di vetro colorato.
-
-E che cosa aveva preso Brunton dallo scrittoio? Niente di prezioso. Era una copia del rituale di famiglia: domande e risposte che ogni Musgrave recita a memoria da secoli, quando diventa maggiorenne. Musgrave stesso dice che è una cosa di «utilità pratica pari a zero».
-
-*Perché un maggiordomo rischia il posto per una filastrocca?*
-
----
-
-## Il rituale, prima parte
-
-«Di chi era?» «Di colui che se ne è andato.»
-«Chi l'avrà?» «Colui che verrà.»
-«Qual era il mese?» «Il sesto dal primo.»
-«Dov'era il sole?» «Sopra la quercia.»
-«Dov'era l'ombra?» «Sotto l'olmo.»
-
----
-
-## Il rituale, seconda parte
-
-«Come è stato misurato?»
-«Nord dieci e dieci, est cinque e cinque,
-sud due e due, ovest uno e uno, e poi sotto.»
-«Cosa daremo?» «Tutto ciò che ci appartiene.»
-«Perché darlo?» «Per amore di lealtà.»
-
----
-
-## Holmes
-
-Holmes capisce quello che a generazioni di Musgrave era sfuggito: «quelle misure dovevano riferirsi a qualche punto preciso». Il rituale non è una formula da recitare. È un insieme di istruzioni per trovare un luogo. E Brunton l'aveva capito prima di lui.
-
----
-
-## Eseguite il rituale
-
-A coppie, su un foglio a quadretti:
-**nord dieci e dieci, est cinque e cinque,
-sud due e due, ovest uno e uno**
-
-Da dove partite?
-Che cosa vuol dire "dieci e dieci"?
-Dieci che cosa?
-
----
-
 ## Per lunedì prossimo, 2 novembre
 
-1. Leggete il racconto
-2. Annotate la vostra griglia preferita: tre numeri nello sketch
+1. Annotate la vostra griglia preferita: tre numeri nello sketch
