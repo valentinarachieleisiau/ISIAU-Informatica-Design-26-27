@@ -15,11 +15,11 @@ Sei incontri, ventiquattro ore, con p5.js e Visual Studio Code. In questa fase i
 | | Data | La domanda | Che cosa impariamo |
 |---|---|---|---|
 | L01 | 19 ottobre | Che cos'è un programma? | Il programma come istruzioni eseguite alla lettera. [L01 - Che cos'è un programma](../02_Lezioni/L01%20-%20Che%20cos%27%C3%A8%20un%20programma.md) |
-| L02 | 26 ottobre | Da dove viene il codice, e dove lo scriviamo? | Il codice è testo. L'editor di codice, il primo sketch. L02 - Il codice è un testo |
-| L03 | 2 novembre | Come si descrive un disegno a una macchina? | Coordinate, forme, colore. La variabile |
-| L04 | 9 novembre | Come si ripete senza riscrivere? | Il ciclo, e il caso |
-| L05 | 16 novembre | Come sceglie una macchina? | La condizione |
-| L06 | 23 novembre | Come si dà un nome a una regola? | La funzione, e il tempo. Consegna dello sketch |
+| L02 | 26 ottobre | Da dove viene il codice, e dove lo scriviamo? | Il codice è testo. L'editor di codice, la prima pagina in HTML. [L02 - Il codice è un testo](../02_Lezioni/L02%20-%20Il%20codice%20%C3%A8%20un%20testo.md) |
+| L03 | 2 novembre | Come si descrive un disegno a una macchina? | Coordinate, forme, colore. La variabile. [L03 - Il foglio e i numeri](../02_Lezioni/L03%20-%20Il%20foglio%20e%20i%20numeri.md) |
+| L04 | 9 novembre | Come si ripete senza riscrivere? | Il ciclo |
+| L05 | 16 novembre | Come sceglie una macchina? | Il caso e la condizione |
+| L06 | 23 novembre | Come si dà un nome a una regola? | La funzione. Consegna dello sketch |
 
 ## Guide
 - [Guida - Mostrare le estensioni dei file](../03_Guide/Guida%20-%20Mostrare%20le%20estensioni%20dei%20file.md)
