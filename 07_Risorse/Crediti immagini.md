@@ -23,3 +23,19 @@ Cartella `_allegati/L01/`. Licenze controllate su Wikimedia Commons l'11 ottobre
 | `proust-bozze.jpg` | Bozze corrette da Marcel Proust | Pubblico dominio | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MS_A_la_recherche_du_temps_perdu.jpg) |
 | `lewitt-wall-drawing-831.jpg` | Zarateman | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bilbao_-_Museo_Guggenheim_-_Wall_Drawing_831_(Geometric_Forms),_de_Sol_LeWitt_6.JPG) |
 | `griglia-*.png` (quattro file) | Illustrazioni originali: lo sketch L01 eseguito con p5.js 2.3.4 | Originale | [L01 - Griglia di cerchi](../08_Codice/L01-griglia-di-cerchi/L01%20-%20Griglia%20di%20cerchi.md) |
+
+## L05 · Il caso e la scelta
+
+Cartella `_allegati/L05/`. Licenza controllata su Wikimedia Commons il 15 novembre 2026.
+
+| File | Autore | Licenza | Fonte |
+|---|---|---|---|
+| `molnar-interruptions-a-recouvrements.jpg` | Vera Molnár, *Interruptions à recouvrements*, 1969. Dalla Anne and Michael Spalter Digital Art Collection | CC0, dichiarata su Flickr e su Commons | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vera_Molnar._Interruptions_%C3%A0_recouvrements_from_1969.jpg) |
+
+## L06 · Una regola, cento forme
+
+Cartella `_allegati/L06/`.
+
+| File | Autore | Licenza | Fonte |
+|---|---|---|---|
+| `due-diagonali.png` | Illustrazione originale, disegnata con p5.js 2.3.4 il 21 novembre 2026: due celle di 180 pixel, con le stesse due `line` della funzione `cella` del labirinto | Originale del corso | — |
